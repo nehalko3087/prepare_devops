@@ -1,2 +1,2 @@
 # Prepare Devops
-this repo is to prepare for devops
+this repo is to prepare for devops.
