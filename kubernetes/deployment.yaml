@@ -16,9 +16,9 @@ spec:
     spec:
       containers:
       - name: app1
-        image: jdkelley/simple-http-server
+        image: nehalko3087/nehalko:1
         ports:
-        - containerPort: 8000
+        - containerPort: 80
 ---
 apiVersion: apps/v1
 kind: Deployment
