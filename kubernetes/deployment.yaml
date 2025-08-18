@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app1
-        image: nehalko3087/nehalko:1
+        image: nehalko3087/nehalko:1000
         ports:
         - containerPort: 80
 ---
